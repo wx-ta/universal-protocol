@@ -1,8 +1,1 @@
-;;;
-{
-  "title": "About Front Matter"
-  "example": {
-    "language": "json"
-  }
-}
-;;
+通用协议对接
